@@ -34,12 +34,12 @@ A pesar de que un **pequeño grupo de clientes genera la mayor parte de las gana
 
 A través del **clustering**, identificamos **4 segmentos de clientes** con características únicas, permitiendo diseñar **estrategias personalizadas** para optimizar ventas y rentabilidad.  
 
-| Cluster  | Perfil del Cliente  | Acciones Recomendadas  |
-|----------|---------------------|------------------------|
-| **Cluster 0** | Gran cantidad de clientes (449), ventas totales moderadas, ticket promedio bajo, frecuencia de compra relativamente alta. | **Programas de Fidelización y Cross-Selling** para aumentar el ticket promedio y retener la frecuencia de compra. |
-| **Cluster 1** | Segmento más valioso: ticket promedio elevado y alta frecuencia de compra. | **Beneficios Exclusivos** (VIP, descuentos por volumen, financiamiento) para fortalecer la relación y maximizar su valor a largo plazo. |
-| **Cluster 2** | Ticket promedio intermedio, pero frecuencia de compra muy baja. | **Estrategias de Reactivación y Remarketing** (ofertas personalizadas, comunicación directa) para impulsar la recurrencia. |
-| **Cluster 3** | Cantidad considerable de clientes (358), ticket promedio bajo, frecuencia de compra moderada. | **Incentivos por Volumen, Packs Promocionales y Recompensas por Frecuencia** para mejorar la rentabilidad y reforzar el vínculo con estos clientes. |
+| Cluster  | N° Clientes | Perfil del Cliente  | Acciones Recomendadas  |
+|----------|------------|---------------------|------------------------|
+| **0** | **449** | Gran cantidad de clientes, ventas totales moderadas, ticket promedio bajo, frecuencia de compra relativamente alta. | **Programas de Fidelización y Cross-Selling** para aumentar el ticket promedio y retener la frecuencia de compra. |
+| **1** | **192** | Segmento más valioso: ticket promedio elevado y alta frecuencia de compra. | **Beneficios Exclusivos** (VIP, descuentos por volumen, financiamiento) para fortalecer la relación y maximizar su valor a largo plazo. |
+| **2** | **177** | Ticket promedio intermedio, pero frecuencia de compra muy baja. | **Estrategias de Reactivación y Remarketing** (ofertas personalizadas, comunicación directa) para impulsar la recurrencia. |
+| **3** | **358** | Cantidad considerable de clientes, ticket promedio bajo, frecuencia de compra moderada. | **Incentivos por Volumen, Packs Promocionales y Recompensas por Frecuencia** para mejorar la rentabilidad y reforzar el vínculo con estos clientes. |
 
 ---
 
@@ -51,10 +51,14 @@ A través del **clustering**, identificamos **4 segmentos de clientes** con cara
 
 ---
 
-## 📎 **Cómo Ejecutar el Proyecto**  
+## 🔒 **Nota sobre los Datos**  
 
-1. **Clonar el repositorio**:  
-   ```bash
-   git clone https://github.com/tu-usuario/analisis-clientes.git
-   cd analisis-clientes
+Los datos han sido **modificados** para preservar la **confidencialidad de la empresa**, asegurando que la información utilizada en este análisis no comprometa datos sensibles.  
+
+---
+
+## 📢 **Contribuciones y Feedback**  
+Si tienes ideas o sugerencias para mejorar este análisis, ¡tus aportes son bienvenidos! 💡🚀  
+
+---
 
