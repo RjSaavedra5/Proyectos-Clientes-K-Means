@@ -1,4 +1,4 @@
-# 📊 Análisis de Clientes con Python + Power BI 🚀  
+# 📊 Análisis de Clientes con Python + ML + Power BI 🚀  
 
 ## 📌 Descripción del Proyecto  
 
